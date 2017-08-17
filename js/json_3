@@ -1,0 +1,13 @@
+{"payload": {
+    "gallery": [
+      {"img_src": "images/1.jpg"},
+      {"img_src": "images/2.jpg"},
+      {"img_src": "images/3.jpg"},
+      {"img_src": "images/4.jpg"},
+      {"img_src": "images/1.jpg"},
+      {"img_src": "images/2.jpg"},
+      {"img_src": "images/3.jpg"},
+      {"img_src": "images/4.jpg"}
+    ]
+    }
+}
